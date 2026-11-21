@@ -64,3 +64,7 @@ Record the actual output and screenshots after running the app with a real manua
 
 ## Assignment
 Problem Statement 40 — Product Manual Assistant, Document Q&A / RAG.
+
+## ScreenShot
+<img width="2752" height="1536" alt="ScreenShot_5" src="https://github.com/user-attachments/assets/fb2155cd-88f0-42c6-affd-2eb7a65256d1" />
+
